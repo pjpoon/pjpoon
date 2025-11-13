@@ -1,5 +1,4 @@
 # pj
-### <div align="center">I'm Poon, a full-time full-stack freelance developer 👨‍💻 working since 2018 🚀</div>  
   
 
 - KMITL
