@@ -2,7 +2,9 @@
 ### <div align="center">I'm Poon, a full-time full-stack freelance developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- KMITL  
+- KMITL
+- I like to play football , guitar   
+- Fav.song: https://open.spotify.com/track/2Kuw5YNcFIfRpSJIPfUKfU?si=3c1a604d93ad449f  
   
 
 <br/>  
